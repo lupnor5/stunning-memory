@@ -27,10 +27,10 @@ A simple calculator application built with modern Android development tools.
 ## Screenshots
 
 *   Tip calculation screen
-<img width="399" height="902" alt="image" src="https://github.com/user-attachments/assets/7bd364a8-8b26-4d6b-a913-b08b07828872" />
+[Screencast_20250829_223024.webm](https://github.com/user-attachments/assets/3b8e0939-ae8b-4fb3-b537-c23a5aba0b4b)
 
 *   Thank you screen
-<img width="399" height="902" alt="image" src="https://github.com/user-attachments/assets/0680ebef-9ec4-45c7-9de2-ee94f7d77be2" />
+[Screencast_20250829_223201.webm](https://github.com/user-attachments/assets/fdc690ff-2b82-4435-9d16-2f77c9c8f0aa)
 
 ## Contributing
 
