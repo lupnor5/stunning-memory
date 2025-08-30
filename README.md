@@ -26,8 +26,6 @@ A simple calculator application built with modern Android development tools.
 
 ## Screenshots
 
-*Please add screenshots of your application here.*
-
 *   Tip calculation screen
 <img width="399" height="902" alt="image" src="https://github.com/user-attachments/assets/7bd364a8-8b26-4d6b-a913-b08b07828872" />
 
